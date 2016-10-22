@@ -6,9 +6,8 @@ Go to the input directory and run the following commands
 For cleaning, please run the commands
 "make clean"
 
-
 Output
-
+THe ouotput folder has 2 sub-folders and 1 report respectively:
 Animation
 This folder contains the .mp4 files which have the animation pertaining to the 
 problem solved.
